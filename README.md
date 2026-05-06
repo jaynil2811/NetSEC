@@ -29,11 +29,6 @@
 
 ---
 
-## 🎥 Video Demonstration
-
-<!-- NOTE: To add your recorded video, simply drag and drop your .mp4 file exactly here while editing this file on GitHub.com. GitHub will automatically create a native video player. -->
-
-**[ 📥 Drag and drop your .mp4 video file here on GitHub to embed it ]**
 
 ---
 
