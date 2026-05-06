@@ -1,6 +1,4 @@
-<div align="center">
-
-```
+```text
 ███╗   ██╗███████╗████████╗███████╗███████╗ ██████╗
 ████╗  ██║██╔════╝╚══██╔══╝██╔════╝██╔════╝██╔════╝
 ██╔██╗ ██║█████╗     ██║   ███████╗█████╗  ██║
@@ -8,6 +6,8 @@
 ██║ ╚████║███████╗   ██║   ███████║███████╗╚██████╗
 ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝╚══════╝ ╚═════╝
 ```
+
+<div align="center">
 
 ### Neural Interface Terminal v4.2
 **A free, self-hosted, full-stack Network Security & OSINT Intelligence Platform**
@@ -31,14 +31,9 @@
 
 ## 🎥 Video Demonstration
 
-<!-- To add your video, either rename your video file to "demo.mp4" and place it in the same folder, OR simply drag and drop your video file directly into this README while editing on GitHub.com -->
-<div align="center">
-  <video src="./demo.mp4" width="800" controls="controls" style="border-radius: 12px; border: 2px solid #22d3ee; box-shadow: 0 0 20px rgba(34, 211, 238, 0.2);">
-    Your browser does not support the video tag.
-  </video>
-  <br/>
-  <i>Full NetSEC walkthrough demonstration.</i>
-</div>
+<!-- NOTE: To add your recorded video, simply drag and drop your .mp4 file exactly here while editing this file on GitHub.com. GitHub will automatically create a native video player. -->
+
+**[ 📥 Drag and drop your .mp4 video file here on GitHub to embed it ]**
 
 ---
 
