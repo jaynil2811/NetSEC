@@ -44,12 +44,12 @@ JOB_LOCK = threading.Lock()
 OSINT_CONFIG = {
     "geo_provider": "ipapi",
     "geo_token": "",
-    "abuseipdb_token": "ea950fe02b28c83197d1b7d1c84977286c38df54f6ab76ea2c5a9b8cfe5e896f1e4a1079e18ba579",
-    "vt_token": "9f20cb71336100622e7b42d7adfe5f83c9282ec05ffd555e2d09a7c49c3b8f21",
-    "shodan_token": "CTekirQGLVTumN849HNd0QCUtY0algAf",
-    "censys_token": "censys_hztYMQuB_KafsEHHxKou19h4rgkPsKGjx",
-    "ipinfo_token": "b9e79f09619980",
-    "otx_token": "",
+    "abuseipdb_token": "ENTER_YOUR_API_KEY",
+    "vt_token": "ENTER_YOUR_API_KEY",
+    "shodan_token": "ENTER_YOUR_API_KEY",
+    "censys_token": "ENTER_YOUR_API_KEY",
+    "ipinfo_token": "ENTER_YOUR_API_KEY",
+    "otx_token": "ENTER_YOUR_API_KEY",
 }
 LATEST_IP_SCAN = []
 LATEST_NMAP = {}
